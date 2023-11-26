@@ -135,6 +135,7 @@ Pinching Gelsight | Pinching Camera | Sliding Gelsight | Sliding Camera
 ```
 1. Download fruit grasping data(See download instructions above)
 2. You can either download pretrained models or train a grapsing model(See Grasping Training instructions below) on your end.
+* Download a pre-trained CNN-LSTM model from: https://drive.google.com/file/d/1r96HIfng2IF4CgL3aB6IKSeWPSMfti1S/view?usp=sharing
 * Download a pre-trained TimeSofmer model from: https://www.dropbox.com/s/1vk8gy5e43y3xkz/timeSformer_orig_two_fruit190.pt?dl=0
 * Download a pre-trained viviT model from: https://www.dropbox.com/s/k8su3ayzolnoxyj/vivit_fdp_two_fruit_last.pt?dl=0 
 3. cd src/fruit_classification
